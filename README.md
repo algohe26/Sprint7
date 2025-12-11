@@ -1,6 +1,6 @@
 # Sprint7
 ## Descripcion del Proyecto
 Aplicación Web implementada en Streamlit
-- andas
+- pandas
 - plotly
 - numpy
